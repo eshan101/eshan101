@@ -1,5 +1,5 @@
 # 💫 About Me:
-- 👋 Hi, I’m Eshan<br>- 👀 I’m interested in automation and AI<br>- 🌱 I’m currently learning Javascript <br>- ⚡ Fun fact: I need to code even to digest my food 🤣<br>
+- 👋 Hi, I’m Eshan<br>- 👀 I’m interested in Automation and AI<br>- 🌱 I’m currently learning Javascript <br>- ⚡ Fun fact: I need to code even to digest my food 🤣<br>
 
 
 # 💻 Tech Stack:
